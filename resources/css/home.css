@@ -1,0 +1,5 @@
+.start{
+    display: grid;
+    place-items:center;
+    margin: 20px;
+}

@@ -1,0 +1,14 @@
+button a{
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    width: 120px;
+    height: 50px;
+}
+input .send_btn, .del_btn{
+    border-color: black;
+    width: 120px;
+    height: 50px;
+}
